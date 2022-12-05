@@ -3,5 +3,5 @@ Repository for practice in Software System Development 2022
 ## Add your original line below starting with '* ' to be formatted as an item.
 ### Do not expose your private information because this is a public repository)
 =======
-* Hi this is Yuki Mishima!
-* I'm a member of Ubiquitous Computing Systems Lab.
+
+* Hi, this is MA from NAIST. My ID is 2211415.
