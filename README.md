@@ -5,5 +5,5 @@ Repository for practice in Software System Development 2022
 =======
 * Hi this is Akira Kawabata!
 * I'm struggling with my master thesis.
-* My research focus is natural language processing.
+* My research area is natural language processing.
 
