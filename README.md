@@ -10,4 +10,3 @@ Repository for practice in Software System Development 2022
 * Hi this is Yuki Mishima!
 * I'm a member of Ubiquitous Computing Systems Lab.
 * Hi, this is MA from NAIST. My ID is 2211415.
-* Hello, I'm masuda.
