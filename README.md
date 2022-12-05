@@ -7,3 +7,4 @@ Repository for practice in Software System Development 2022
 * Write something unique in one line.
 * If you get any conflicts when you make pull requests, try to resolve that by rebasing/merging with the latest contenmt.
 
+* [Hudi] I made this comment when Hajimu-sensei presenting the slides of lecture #4 p.39: Review and merge a pull request in GitHub(4)
