@@ -9,3 +9,5 @@ Repository for practice in Software System Development 2022
 * This is a new line for the git----... Welcome to my git
 
 * Hello World!
+
+* Thank you for today's class!
