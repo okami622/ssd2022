@@ -14,3 +14,4 @@ Repository for practice in Software System Development 2022
 * U◕ᴥ◕U
 * Please let me in .... Raclette is life, raclette is love
 * Follow me on Instagram: @kostjak98  and link up on LinkedIn: https://www.linkedin.com/in/konstantin-kulik-1454651b0/
+* The sudden change in temperature has my nose confused. ><
