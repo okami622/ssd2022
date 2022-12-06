@@ -20,3 +20,9 @@ Repository for practice in Software System Development 2022
 * Hi this is Akira Kawabata!
 * I'm struggling with my master thesis.
 * My research area is natural language processing.
+* Hi this is Adil!
+* I belong to Cyber Resilience Lab (Information Science).
+* My main research interest is in AI Native resource allocation for 6G network.
+* :christmas_tree:
+* Hi. I'm Kazutomo Nakamura.
+* Hi. this is Gabriel from Software Engineering Laboratory.
