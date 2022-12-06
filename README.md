@@ -23,3 +23,4 @@ Repository for practice in Software System Development 2022
 * :christmas_tree:
 * Hi. I'm Kazutomo Nakamura.
 * Hi. this is Gabriel from Software Engineering Laboratory.
+* Hi. This is Hang from NLP lab.
