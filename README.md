@@ -27,4 +27,5 @@ Repository for practice in Software System Development 2022
 * Hi. I'm Kazutomo Nakamura.
 * Hi. this is Gabriel from Software Engineering Laboratory.
 * nyaaaan
+* Hi. This is Hang from NLP lab.
 * [by Hudi] I made this comment when Hajimu-sensei presenting the slides of lecture #4 p.39: Review and merge a pull request in GitHub(4). But apparently got conflict. Was requested to solve the conflict. But how could I resolve conflicts involving multiple parties? Shall I ask ChatGPT? or shall I just ask Eliza? maybe it is better to resolve it through World Cup. Oh but Japan has lost in the round of 16 ........ :')
