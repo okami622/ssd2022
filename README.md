@@ -17,6 +17,9 @@ Repository for practice in Software System Development 2022
 * The sudden change in temperature has my nose confused. ><
 * It's GS from sdlab!
 * Ubi Ubi Ubi
+* Hi this is Akira Kawabata!
+* I'm struggling with my master thesis.
+* My research area is natural language processing.
 * Hi this is Adil!
 * I belong to Cyber Resilience Lab (Information Science).
 * My main research interest is in AI Native resource allocation for 6G network.
