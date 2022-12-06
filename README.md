@@ -22,3 +22,4 @@ Repository for practice in Software System Development 2022
 * My main research interest is in AI Native resource allocation for 6G network.
 * :christmas_tree:
 * Hi. I'm Kazutomo Nakamura.
+* Hi. this is Gabriel from Software Engineering Laboratory.
