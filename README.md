@@ -21,3 +21,4 @@ Repository for practice in Software System Development 2022
 * I belong to Cyber Resilience Lab (Information Science).
 * My main research interest is in AI Native resource allocation for 6G network.
 * :christmas_tree:
+* Hi. I'm Kazutomo Nakamura.
