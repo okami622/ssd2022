@@ -47,3 +47,4 @@ Repository for practice in Software System Development 2022
 * Hi everyone, I am Bernard (2211047) from Malaysia.
 Hello, I'm from Chiba
 Take your heart
+* I'm a Ubi Lab member
