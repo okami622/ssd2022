@@ -52,3 +52,4 @@ Take your heart
 * lets go!
 * I love doraemon!
 * I love shen
+* I love natto
