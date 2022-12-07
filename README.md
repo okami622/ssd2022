@@ -50,6 +50,7 @@ Take your heart
 * I'm a Ubi Lab member
 * I have a pen.
 * lets go!
+* Switch kaitai...orz
 * I love doraemon!
 * I love shen
 * I love natto
