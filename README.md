@@ -48,3 +48,4 @@ Repository for practice in Software System Development 2022
 Hello, I'm from Chiba
 Take your heart
 * I'm a Ubi Lab member
+* I have a pen.
