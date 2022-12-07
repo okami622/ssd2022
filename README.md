@@ -45,3 +45,4 @@ Repository for practice in Software System Development 2022
 * I live in Osaka.
 * Hi everyone, I am Bernard (2211047) from Malaysia.
 Hello, I'm from Chiba
+Take your heart
