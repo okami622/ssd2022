@@ -43,3 +43,4 @@ Repository for practice in Software System Development 2022
 * Hello, I'm Jaisri Pongchai (2211413).
 * I live in Osaka.
 * Hi everyone, I am Bernard (2211047) from Malaysia.
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
