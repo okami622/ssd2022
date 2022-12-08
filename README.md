@@ -56,4 +56,5 @@ Take your heart
 * I love natto
 * #Nyaoha Tatsuna!!! (2011424)
 * Sawaddee from SE Lab :)
+* Pokemon SV
 * Hello everyone!! It's too cold now!!!
